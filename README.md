@@ -77,7 +77,7 @@ Example:
 
 1. **Navigate to the `chrome-extension` directory:**
    ```bash
-   cd chrome-extension
+   cd email-writer-ext
    ```
 
 2. **Install dependencies:**
