@@ -12,10 +12,10 @@ This project is an **AI-powered Email Reply Generator** designed to help users c
 You can add screenshots of the web application and Chrome extension in this section.
 
 Example:
-```
+
 ![Email Reply Generator](screenshots/email-reply-generator.png)
 ![Gmail AI Reply](screenshots/gmail-ai-reply.png)
-```
+
 
 ## Features
 
