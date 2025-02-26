@@ -42,7 +42,7 @@ Example:
 
 1. **Navigate to the backend directory:**
    ```bash
-   cd backend
+   cd email-writer-sb
    ```
 
 2. **Set up your environment variables:**
@@ -59,7 +59,7 @@ Example:
 
 1. **Navigate to the frontend directory:**
    ```bash
-   cd frontend
+   cd email-writer-react
    ```
 
 2. **Install dependencies:**
